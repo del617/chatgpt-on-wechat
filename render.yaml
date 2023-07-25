@@ -142,4 +142,4 @@ envVarGroups:
   - name: stripe
     envVars:
       - key: STRIPE_API_URL
-        value: https:
+        value: https://api.stripe.com/v2
